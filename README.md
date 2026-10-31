@@ -11,7 +11,7 @@ A curated, practical curriculum and codebase of hands-on data science, statistic
 
 ---
 
-## 🌟 Overview
+## Overview
 
 This repository is designed as a structured practical reference guide for data science practitioners and learners. It covers the full lifecycle of data analysis and predictive modeling — from initial exploratory data understanding and rigorous data cleaning to classical machine learning and modern neural network frameworks.
 
@@ -23,7 +23,7 @@ Key highlights:
 
 ---
 
-## 🧩 Learning Modules Matrix
+## Learning Modules Matrix
 
 | Module | Core Concepts & Topics | Key Tools & Notebooks |
 | :--- | :--- | :--- |
@@ -34,7 +34,7 @@ Key highlights:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -67,7 +67,7 @@ Key highlights:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 learning-data-science/
@@ -94,7 +94,7 @@ learning-data-science/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, notebook improvements, and additional dataset examples are welcome!
 1. Fork the repository.
@@ -105,7 +105,8 @@ Contributions, notebook improvements, and additional dataset examples are welcom
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 Feel free to use the notebooks, code snippets, and datasets for your educational and research endeavors.
+
