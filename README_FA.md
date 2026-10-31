@@ -2,10 +2,10 @@
 
 # مخزن جامع یادگیری علم داده (Learning Data Science)
 
-[![License: MIT](https://img.shields.io/badge/لایسنس-MIT-blue.svg)](LICENSE)
-[![Python: 3.10+](https://img.shields.io/badge/پایتون-3.10%2B-3776AB.svg?logo=python&logoColor=white)](https://python.org)
-[![Jupyter](https://img.shields.io/badge/نوت‌بوک-Jupyter-F37626.svg?logo=jupyter&logoColor=white)](https://jupyter.org)
-[![Frameworks](https://img.shields.io/badge/تکنولوژی‌ها-Pandas%20%7C%20Scikit--Learn%20%7C%20PyTorch-orange.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?logo=python&logoColor=white)](https://python.org)
+[![Jupyter](https://img.shields.io/badge/Notebooks-Jupyter-F37626.svg?logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Frameworks](https://img.shields.io/badge/Stack-Pandas%20%7C%20Scikit--Learn%20%7C%20PyTorch-orange.svg)](#)
 
 [English](README.md) | فارسی
 
@@ -99,11 +99,12 @@ learning-data-science/
 ## مشارکت
 
 از هرگونه مشارکت، اصلاح نوت‌بوک‌ها و اضافه کردن نمونه‌های جدید با کمال میل استقبال می‌شود!
-۱. مخزن را فورک کنید.
-۲. یک برنچ جدید برای قابلیت خود ایجاد کنید (`git checkout -b feature/new-ml-notebook`).
-۳. تغییرات خود را کامیت کنید (`git commit -m 'Add notebook for Gradient Boosting'`).
-۴. تغییرات را به برنچ خود پوش نمایید (`git push origin feature/new-ml-notebook`).
-۵. یک پول ریکوئست (Pull Request) ارسال کنید.
+
+1. مخزن را فورک کنید.<br>
+2. یک شاخه جدید بسازید (`git checkout -b feature/ml-notebook`).<br>
+3. تغییرات خود را کامیت کنید (`git commit -m "Add new feature"`).<br>
+4. تغییرات را به شاخه خود پوش نمایید (`git push origin feature/ml-notebook`).<br>
+5. یک Pull Request باز کنید.
 
 ---
 
